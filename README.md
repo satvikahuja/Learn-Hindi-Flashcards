@@ -1,0 +1,1 @@
+This is a flash card game which helps you learn the 100 most used words in Hindi
